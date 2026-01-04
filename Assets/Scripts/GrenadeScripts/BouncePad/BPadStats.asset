@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: BPadStats
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: BouncePad
+  nadePrefab: {fileID: 187134007662996984, guid: 3d1a9bc629e78514a835b63bbaf27851,
+    type: 3}
+  weaponInvUI: {fileID: 7043016614284949666, guid: a5abd2e05410d714a931780b51b27c82,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 7575896912116299944, guid: 0ff41ae771825644e980d378ac262e97,
+    type: 3}
+  visualPrefab: {fileID: 5465397079051967086, guid: 1749bdaa29dd8d7479a63c21185fcde1,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: b580caa3fbc20464eb6ef5b25c4753d5, type: 3}
+  throwClip: {fileID: 8300000, guid: 0334f99666bfac64a87cc0d12410481d, type: 3}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 7
+  Strength: 15
+  explosionRadius: 10
+  visualRadiusMultiplier: 0
+  throwForce: 2
+  duration: 0
+  freezeRotationOnThrow: 1
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1.25
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0.38268346, y: 0, z: 0, w: 0.9238795}
+  isBuilding: 0
+  fireRate: 0
+  armTime: 0.33

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81ffb1643dfbf04cb1a0a0d8d4627b7, type: 3}
+  m_Name: HuggerData
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  type: 9
+  UpgradeName: Old Lady Exploder
+  Description: 
+  icon: {fileID: 0}
+  UpgradeMenuUIPrefab: {fileID: 1153398862301302419, guid: 93729ff36de358d4e87c39bdc8e8868d,
+    type: 3}

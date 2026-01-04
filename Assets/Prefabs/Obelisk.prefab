@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1376779064921764926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7591166824970854817}
+  - component: {fileID: 4045951640851690090}
+  - component: {fileID: 1969825891081323476}
+  - component: {fileID: 1384647513641680253}
+  - component: {fileID: -2414436850386711066}
+  - component: {fileID: 1746835993707910916}
+  m_Layer: 0
+  m_Name: Obelisk
+  m_TagString: Obelisk
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7591166824970854817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.42371, y: 10.85, z: 3.16451}
+  m_LocalScale: {x: 3, y: 8, z: 3}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4045951640851690090
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &1969825891081323476
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1384647513641680253
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!54 &-2414436850386711066
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  serializedVersion: 5
+  m_Mass: 100
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 90
+  m_CollisionDetection: 0
+--- !u!114 &1746835993707910916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376779064921764926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 793e8752a4680ef47933e777141b7b52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ObeliskScript
+  possibleUpgrades:
+  - {fileID: 11400000, guid: 7c9186570b8e0004ca7d9d6e13c83374, type: 2}
+  - {fileID: 11400000, guid: e96c271c6c55b064193d8d5f18e7208d, type: 2}
+  - {fileID: 11400000, guid: 2871487c7f82cc944b26443a0fa372c3, type: 2}
+  - {fileID: 11400000, guid: 97c2c6af8cbb2244794c09e9d9b4356c, type: 2}
+  - {fileID: 11400000, guid: b3ce696e7ad03d14d98efb51b7923539, type: 2}
+  - {fileID: 11400000, guid: 54c34cbe5511d394fb666cc8fcdde4bc, type: 2}
+  - {fileID: 11400000, guid: 3f2bd5955f23f4e4381c715b1f44f006, type: 2}
+  - {fileID: 11400000, guid: 01ef6488794ab734aaed1d24b544d9f0, type: 2}
+  - {fileID: 11400000, guid: 17e109d86e84fad43b6932e556b06f3a, type: 2}
+  - {fileID: 11400000, guid: 5b17c28c01359db46be42d7125b15bf9, type: 2}
+  - {fileID: 11400000, guid: da85a188c150d9744a30b915f49bef53, type: 2}
+  - {fileID: 11400000, guid: 20a15623017778f4fb0105a5d77f4dc1, type: 2}
+  - {fileID: 11400000, guid: 1fbec35db218d5c48aea2079a580f6b2, type: 2}
+  - {fileID: 11400000, guid: e83ba64052ab02e4595b9d2d6d8fd91b, type: 2}
+  - {fileID: 11400000, guid: 083899d0165a6dd4b87d5c33f80e18d2, type: 2}
+  - {fileID: 11400000, guid: 6462ebeb880a0af45857ee0e079bbb00, type: 2}
+  - {fileID: 11400000, guid: 46457a85f2b9c124fb0872c8405e73d2, type: 2}
+  - {fileID: 11400000, guid: 4b6c6e2eb19ee5442816c4f0b3bf165b, type: 2}
+  - {fileID: 11400000, guid: 15111761476ab3141804df3dce13bed6, type: 2}
+  - {fileID: 11400000, guid: 6a3e7fa78ceffea46b1d03fdc9bf574d, type: 2}
+  - {fileID: 11400000, guid: 942d0cccebe7b9543adaa0d4c82d21f8, type: 2}
+  - {fileID: 11400000, guid: 4585b0a096a99424c938d49cf1385b45, type: 2}
+  - {fileID: 11400000, guid: ab1e5e7f5f528a84db1d7cf62ab1b423, type: 2}
+  - {fileID: 11400000, guid: 63e816b28a3f97e4eb19c552a800d084, type: 2}
+  - {fileID: 11400000, guid: cd008dd5e9efafc49807dcad96b3f67b, type: 2}
+  - {fileID: 11400000, guid: 61321ebb15ead5e4cb1338a302b9bfac, type: 2}
+  - {fileID: 11400000, guid: b45e1010a7256dc449ab1a9ebefe250c, type: 2}
+  - {fileID: 11400000, guid: d53b236fc95a4d442953ac95272c13cf, type: 2}
+  - {fileID: 11400000, guid: 5ae87a52892660c4ab899d5e9a3d3653, type: 2}
+  holdDuration: 12
+  minObeliskTimer: 3
+  cappingSound: {fileID: 8300000, guid: df3784f415fe242468b425aac2102fcc, type: 3}

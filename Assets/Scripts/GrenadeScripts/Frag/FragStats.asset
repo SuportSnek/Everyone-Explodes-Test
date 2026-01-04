@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: FragStats
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: Frag
+  nadePrefab: {fileID: 3886077286581252901, guid: 0344bfd71b2b98b4e9b7dd05268b01a2,
+    type: 3}
+  weaponInvUI: {fileID: 3614363314863484338, guid: 58c2d47b005a43c4f9c959b2b314fa2f,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 8645814251547480473, guid: b0d1732b6b35a0644ac047c90e420d2f,
+    type: 3}
+  visualPrefab: {fileID: 6204162654862719277, guid: 6dc2268f0c326be46a2329a53f88e3f9,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: 7f8d64049b65afe40ad0526c0e6abada, type: 3}
+  throwClip: {fileID: 8300000, guid: 0334f99666bfac64a87cc0d12410481d, type: 3}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 9
+  Strength: 17.5
+  explosionRadius: 10
+  visualRadiusMultiplier: 4
+  throwForce: 17.5
+  duration: 2.5
+  freezeRotationOnThrow: 0
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0, y: 0, z: 0, w: 1}
+  isBuilding: 0
+  fireRate: 0
+  armTime: 0

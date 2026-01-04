@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81ffb1643dfbf04cb1a0a0d8d4627b7, type: 3}
+  m_Name: StormData
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  type: 22
+  UpgradeName: STORM
+  Description: 
+  icon: {fileID: 21300000, guid: 7f8c0dd3244c64e4cbcb389353e2a291, type: 3}
+  UpgradeMenuUIPrefab: {fileID: 6638187026503398035, guid: af111d59f9e847a4bbfcf4e8872eae02,
+    type: 3}

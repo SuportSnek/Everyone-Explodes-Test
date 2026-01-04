@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: ExplodeBuildData
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: The Terror Turtle
+  nadePrefab: {fileID: 187134007662996984, guid: b568faa0359b04f4785f20004847d670,
+    type: 3}
+  weaponInvUI: {fileID: 608746298764643060, guid: 61d25ba20e075d74e95f3922b02a7f44,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 1487573932913069375, guid: 53c3517b42f549f42bd97f8dc6b7cf19,
+    type: 3}
+  visualPrefab: {fileID: 158513181876472769, guid: 293d3618116822048b41fac62818b5f6,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: 7f8d64049b65afe40ad0526c0e6abada, type: 3}
+  throwClip: {fileID: 8300000, guid: 0334f99666bfac64a87cc0d12410481d, type: 3}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 15
+  Strength: 15
+  explosionRadius: 12.5
+  visualRadiusMultiplier: 5
+  throwForce: 5
+  duration: 40
+  freezeRotationOnThrow: 1
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1.65
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0, y: 0, z: 0, w: 1}
+  isBuilding: 1
+  fireRate: 10
+  armTime: 0

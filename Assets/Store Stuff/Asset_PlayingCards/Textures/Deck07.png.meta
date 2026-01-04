@@ -1,0 +1,1671 @@
+fileFormatVersion: 2
+guid: 17cec801755df48a28bfbb584ce5fb80
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160928
+  packageName: Playing Cards Design Pack for Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Asset_PlayingCards/Textures/Deck07.png
+  uploadId: 346900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2208766833189776543
+    second: Deck07_0
+  - first:
+      213: 1151313302851332997
+    second: Deck07_1
+  - first:
+      213: -3551585947015131832
+    second: Deck07_2
+  - first:
+      213: -1449197491787003681
+    second: Deck07_3
+  - first:
+      213: 4012396716067973844
+    second: Deck07_4
+  - first:
+      213: -5644019349146409330
+    second: Deck07_5
+  - first:
+      213: -6715545397973550474
+    second: Deck07_6
+  - first:
+      213: -6212503758739420147
+    second: Deck07_7
+  - first:
+      213: -8566959285559183063
+    second: Deck07_8
+  - first:
+      213: 6570749733537644634
+    second: Deck07_9
+  - first:
+      213: -4474763472826917538
+    second: Deck07_10
+  - first:
+      213: -7265937337266584540
+    second: Deck07_11
+  - first:
+      213: 2383176563423160928
+    second: Deck07_12
+  - first:
+      213: 6192984224554456172
+    second: Back_D7_1
+  - first:
+      213: -2690509190248447639
+    second: Deck07_14
+  - first:
+      213: -2159325267755111075
+    second: Deck07_15
+  - first:
+      213: 8109353222027763585
+    second: Deck07_16
+  - first:
+      213: 8157433254844879370
+    second: Deck07_17
+  - first:
+      213: 8357513018355473010
+    second: Deck07_18
+  - first:
+      213: 6684065896666044052
+    second: Deck07_19
+  - first:
+      213: -2637364951577246387
+    second: Deck07_20
+  - first:
+      213: 1150343133769104176
+    second: Deck07_21
+  - first:
+      213: 7605254258389245479
+    second: Deck07_22
+  - first:
+      213: 9167539558198754224
+    second: Deck07_23
+  - first:
+      213: 1424718952061296686
+    second: Deck07_24
+  - first:
+      213: -7288101682902460731
+    second: Deck07_25
+  - first:
+      213: 1569888213363668326
+    second: Deck07_26
+  - first:
+      213: 7716782925193064016
+    second: Back_D7_2
+  - first:
+      213: -6665170469748497939
+    second: Deck07_28
+  - first:
+      213: 6827193103689735255
+    second: Deck07_29
+  - first:
+      213: -3636814559970680447
+    second: Deck07_30
+  - first:
+      213: -161990816019011626
+    second: Deck07_31
+  - first:
+      213: -741274904849959528
+    second: Deck07_32
+  - first:
+      213: 6341315409775075986
+    second: Deck07_33
+  - first:
+      213: 1897225154825269373
+    second: Deck07_34
+  - first:
+      213: -5705892488583375240
+    second: Deck07_35
+  - first:
+      213: 4407071413979252668
+    second: Deck07_36
+  - first:
+      213: -6767499529265288448
+    second: Deck07_37
+  - first:
+      213: -3167914162217295370
+    second: Deck07_38
+  - first:
+      213: -5349735461540857354
+    second: Deck07_39
+  - first:
+      213: 6385508641608769440
+    second: Deck07_40
+  - first:
+      213: 7855259179553255662
+    second: Back_D7_3
+  - first:
+      213: 6641679959906077382
+    second: Deck07_42
+  - first:
+      213: 3126869953407134791
+    second: Deck07_43
+  - first:
+      213: -4242360237214150731
+    second: Deck07_44
+  - first:
+      213: 5782331232880078009
+    second: Deck07_45
+  - first:
+      213: -7263188050290966326
+    second: Deck07_46
+  - first:
+      213: -4413393132876506302
+    second: Deck07_47
+  - first:
+      213: 5958361750070272303
+    second: Deck07_48
+  - first:
+      213: -5652432448451565427
+    second: Deck07_49
+  - first:
+      213: -5008065671623859632
+    second: Deck07_50
+  - first:
+      213: 6446723138299423116
+    second: Deck07_51
+  - first:
+      213: -2459530056287133583
+    second: Deck07_52
+  - first:
+      213: 3737573963352665667
+    second: Deck07_53
+  - first:
+      213: -6487132845025467596
+    second: Deck07_54
+  - first:
+      213: -8188753446721267374
+    second: Back_D7_4
+  - first:
+      213: -205082414992273681
+    second: Deck07_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deck07_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c6ba50b73a4d6080caf42a2b1eddb
+      internalID: 2208766833189776543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838c6f73c0664485bb1a76be5d99426
+      internalID: 1151313302851332997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462685c2b1b1d42c684bc7517264dc3f
+      internalID: -3551585947015131832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98199251bca54ba4a446db590f311fd
+      internalID: -1449197491787003681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5939b37e11b4e49c391ae57a9a13039c
+      internalID: 4012396716067973844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10b8b7098ef450296de48476ba8c2d
+      internalID: -5644019349146409330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec561d7f153ed4c9c92f216f97765b77
+      internalID: -6715545397973550474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d3d741ef2e44198586e198676985a
+      internalID: -6212503758739420147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac44979c166c4db8a15b4066eef14de
+      internalID: -8566959285559183063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a01c1ed4b84ba09a23b35a2878527
+      internalID: 6570749733537644634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218bd662a827446e80be7d81c2c0b61
+      internalID: -4474763472826917538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74adf9c2a0e49f4af98dd1cfc8a310
+      internalID: -7265937337266584540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395baa54d0ad44fdfa43d60c982b8a69
+      internalID: 2383176563423160928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D7_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134cbc4c9a5294f119103c83e00bedd0
+      internalID: 6192984224554456172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828f9a72b10e477aa320fe7e6d9d3c6
+      internalID: -2690509190248447639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a711fe43504556b6fd5c30e33c9de
+      internalID: -2159325267755111075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c20a787e6b1f4ed48267c0709712536
+      internalID: 8109353222027763585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb6d87925fd4a8bb31e10a791b6c61
+      internalID: 8157433254844879370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f92fc59318e54d1ca564cd5df97b6e9
+      internalID: 8357513018355473010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f8452870904f858ee101482f89c6b
+      internalID: 6684065896666044052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f385b52cc581492aaafe5c4157c0795
+      internalID: -2637364951577246387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122399c276d84103a0dc9a4a4840982
+      internalID: 1150343133769104176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2879ae2d64940058f63739db5536d1
+      internalID: 7605254258389245479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059bc4d4eb37442b5bd405633d1f3e0f
+      internalID: 9167539558198754224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160c7e4767074ea28b692a6a590bced
+      internalID: 1424718952061296686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b249be274e4b3985219490202700a
+      internalID: -7288101682902460731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff864ed8a6c944a1abf408a337c2dc7e
+      internalID: 1569888213363668326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D7_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef9891529174f5296b3b1466a97d6b
+      internalID: 7716782925193064016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709224fc33f84f7b9ccd3e3ebad38db
+      internalID: -6665170469748497939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a299e9e0b7b4487a065750fb1297a9
+      internalID: 6827193103689735255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023e5d4549f44535bb55f9e241ec5c0
+      internalID: -3636814559970680447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982f0d4bbeff4139957a88fb1287a00
+      internalID: -161990816019011626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0236cce985354f46aba08613a079902
+      internalID: -741274904849959528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261fa37fd3e94c9c8c2be38e81f02dd
+      internalID: 6341315409775075986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd49c2d548746f2adfb6c1c9dd62ce
+      internalID: 1897225154825269373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1e3a751eab41f7bc8467a6b4efad6
+      internalID: -5705892488583375240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7b97ffb33140b48e65277224c1420
+      internalID: 4407071413979252668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e453fbac3a417292ec822462bd940
+      internalID: -6767499529265288448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365b09a5710648d28abca2d1d67026a
+      internalID: -3167914162217295370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e148a2c69479480a98ff028e308882c
+      internalID: -5349735461540857354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e4cb460a7e44eb8baa54a0a401aa2
+      internalID: 6385508641608769440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D7_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e141d8dc7d40acb60f0c1acedc9d6
+      internalID: 7855259179553255662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17a6fff76ad41ea8eae2f702a67863
+      internalID: 6641679959906077382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cbeb6ef63f4c05867917dbd756bb8
+      internalID: 3126869953407134791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7223daba2164e7787b1cc04fbe1ad2
+      internalID: -4242360237214150731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91d674a58ad47af80ae485bde75e6c
+      internalID: 5782331232880078009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9985e71af0aa4e4b953b81bdbeccb90
+      internalID: -7263188050290966326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e87284a8b24823bec21fd8ca53a2c
+      internalID: -4413393132876506302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_48
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427eb84893bc24a9ca71953a04db8ac1
+      internalID: 5958361750070272303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70e2386212346de8a715706aa03ea3
+      internalID: -5652432448451565427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eb1d4448ab44349b3f839cc3af2b3a
+      internalID: -5008065671623859632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d562041a1524df98fed3907d5c89df
+      internalID: 6446723138299423116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf441fd19a34f85ab0563a9308abae
+      internalID: -2459530056287133583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1d9920132d46f3a618146a0e1be15
+      internalID: 3737573963352665667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed4b584b4f244079c95a7d9649a97d
+      internalID: -6487132845025467596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D7_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f12ba36ee84db7a7a1efb4466dc3f
+      internalID: -8188753446721267374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck07_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b826bbf1430456fad7c8e66339e4e0
+      internalID: -205082414992273681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 636317e0fbc0e4c33bb3d38d4da6f9c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back_D7_1: 6192984224554456172
+      Back_D7_2: 7716782925193064016
+      Back_D7_3: 7855259179553255662
+      Back_D7_4: -8188753446721267374
+      Deck07_0: 2208766833189776543
+      Deck07_1: 1151313302851332997
+      Deck07_10: -4474763472826917538
+      Deck07_11: -7265937337266584540
+      Deck07_12: 2383176563423160928
+      Deck07_14: -2690509190248447639
+      Deck07_15: -2159325267755111075
+      Deck07_16: 8109353222027763585
+      Deck07_17: 8157433254844879370
+      Deck07_18: 8357513018355473010
+      Deck07_19: 6684065896666044052
+      Deck07_2: -3551585947015131832
+      Deck07_20: -2637364951577246387
+      Deck07_21: 1150343133769104176
+      Deck07_22: 7605254258389245479
+      Deck07_23: 9167539558198754224
+      Deck07_24: 1424718952061296686
+      Deck07_25: -7288101682902460731
+      Deck07_26: 1569888213363668326
+      Deck07_28: -6665170469748497939
+      Deck07_29: 6827193103689735255
+      Deck07_3: -1449197491787003681
+      Deck07_30: -3636814559970680447
+      Deck07_31: -161990816019011626
+      Deck07_32: -741274904849959528
+      Deck07_33: 6341315409775075986
+      Deck07_34: 1897225154825269373
+      Deck07_35: -5705892488583375240
+      Deck07_36: 4407071413979252668
+      Deck07_37: -6767499529265288448
+      Deck07_38: -3167914162217295370
+      Deck07_39: -5349735461540857354
+      Deck07_4: 4012396716067973844
+      Deck07_40: 6385508641608769440
+      Deck07_42: 6641679959906077382
+      Deck07_43: 3126869953407134791
+      Deck07_44: -4242360237214150731
+      Deck07_45: 5782331232880078009
+      Deck07_46: -7263188050290966326
+      Deck07_47: -4413393132876506302
+      Deck07_48: 5958361750070272303
+      Deck07_49: -5652432448451565427
+      Deck07_5: -5644019349146409330
+      Deck07_50: -5008065671623859632
+      Deck07_51: 6446723138299423116
+      Deck07_52: -2459530056287133583
+      Deck07_53: 3737573963352665667
+      Deck07_54: -6487132845025467596
+      Deck07_56: -205082414992273681
+      Deck07_6: -6715545397973550474
+      Deck07_7: -6212503758739420147
+      Deck07_8: -8566959285559183063
+      Deck07_9: 6570749733537644634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

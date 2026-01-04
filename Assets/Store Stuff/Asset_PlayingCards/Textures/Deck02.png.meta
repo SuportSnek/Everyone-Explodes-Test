@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 2ee177719f492439ebcf591e83df2d59
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160928
+  packageName: Playing Cards Design Pack for Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Asset_PlayingCards/Textures/Deck02.png
+  uploadId: 346900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8015602716496629025
+    second: Deck02_Heart_A
+  - first:
+      213: 1543271524466354264
+    second: Deck02_Heart_2
+  - first:
+      213: 16512171712424767
+    second: Deck02_Heart_3
+  - first:
+      213: -1899854459020071359
+    second: Deck02_Heart_4
+  - first:
+      213: 1004799789455987659
+    second: Deck02_Heart_5
+  - first:
+      213: 1408526355837041803
+    second: Deck02_Heart_6
+  - first:
+      213: 7772293743256464837
+    second: Deck02_Heart_7
+  - first:
+      213: 7373316886589443600
+    second: Deck02_Heart_8
+  - first:
+      213: 5087696280894743015
+    second: Deck02_Heart_9
+  - first:
+      213: 3406148438248016451
+    second: Deck02_Heart_10
+  - first:
+      213: -7197886455468503514
+    second: Deck02_Heart_J
+  - first:
+      213: -3310820820360713607
+    second: Deck02_Heart_Q
+  - first:
+      213: 3938159137638058159
+    second: Deck02_Heart_K
+  - first:
+      213: 8377660892498022680
+    second: Deck02_Back_1
+  - first:
+      213: 5362812241179954904
+    second: Deck02_Club_A
+  - first:
+      213: 6482534295727591972
+    second: Deck02_Club_2
+  - first:
+      213: -2574929349390834253
+    second: Deck02_Club_3
+  - first:
+      213: -19858119321078237
+    second: Deck02_Club_4
+  - first:
+      213: 5332306843133913856
+    second: Deck02_Club_5
+  - first:
+      213: -8055256389614355142
+    second: Deck02_Club_6
+  - first:
+      213: 316718133330025967
+    second: Deck02_Club_7
+  - first:
+      213: -2368429640310727612
+    second: Deck02_Club_8
+  - first:
+      213: -9120984682127385225
+    second: Deck02_Club_9
+  - first:
+      213: 3915234255916429425
+    second: Deck02_Club_10
+  - first:
+      213: -1509962872242152275
+    second: Deck02_Club_J
+  - first:
+      213: -5336126241793553272
+    second: Deck02_Club_Q
+  - first:
+      213: -9023041482954960014
+    second: Deck02_Club_K
+  - first:
+      213: -433670666029108566
+    second: Deck02_Back_2
+  - first:
+      213: 1238373968832607136
+    second: Deck02_Diamond_A
+  - first:
+      213: -3364252963478235582
+    second: Deck02_Diamond_2
+  - first:
+      213: -5315407251172718837
+    second: Deck02_Diamond_3
+  - first:
+      213: 5844252051249276162
+    second: Deck02_Diamond_4
+  - first:
+      213: -4693229376433642301
+    second: Deck02_Diamond_5
+  - first:
+      213: 7653361487732526597
+    second: Deck02_Diamond_6
+  - first:
+      213: -4002422638983080473
+    second: Deck02_Diamond_7
+  - first:
+      213: 1030663210840847766
+    second: Deck02_Diamond_8
+  - first:
+      213: 563064050885566589
+    second: Deck02_Diamond_9
+  - first:
+      213: 5162319668047967537
+    second: Deck02_Diamond_10
+  - first:
+      213: -4615463202923517574
+    second: Deck02_Diamond_J
+  - first:
+      213: -6861387176726406227
+    second: Deck02_Diamond_Q
+  - first:
+      213: 6437866838887046682
+    second: Deck02_Diamond_K
+  - first:
+      213: -8552559865685663976
+    second: Deck02_Back_3
+  - first:
+      213: -467872590796705546
+    second: Deck02_Spade_A
+  - first:
+      213: -4120126131310695895
+    second: Deck02_Spade_2
+  - first:
+      213: 3927545055032276733
+    second: Deck02_Spade_3
+  - first:
+      213: 2272901471365635516
+    second: Deck02_Spade_4
+  - first:
+      213: -1080871696032500350
+    second: Deck02_Spade_5
+  - first:
+      213: 3110376122290022186
+    second: Deck02_Spade_6
+  - first:
+      213: -5865499541247452425
+    second: Deck02_Spade_7
+  - first:
+      213: 3961510865622030163
+    second: Deck02_Spade_8
+  - first:
+      213: -2510955049437243680
+    second: Deck02_Spade_9
+  - first:
+      213: -4825729078125685570
+    second: Deck02_Spade_10
+  - first:
+      213: -1441224199907959489
+    second: Deck02_Spade_J
+  - first:
+      213: 5358601097194354281
+    second: Deck02_Spade_Q
+  - first:
+      213: 2620435828420200675
+    second: Deck02_Spade_K
+  - first:
+      213: 6850071573383382763
+    second: Deck02_Back_4
+  - first:
+      213: -8223463856721717213
+    second: Deck02_Joker
+  - first:
+      213: -8015602716496629025
+    second: Deck02_0
+  - first:
+      213: 1543271524466354264
+    second: Deck02_1
+  - first:
+      213: 16512171712424767
+    second: Deck02_2
+  - first:
+      213: -1899854459020071359
+    second: Deck02_3
+  - first:
+      213: 1004799789455987659
+    second: Deck02_4
+  - first:
+      213: 1408526355837041803
+    second: Deck02_5
+  - first:
+      213: 7772293743256464837
+    second: Deck02_6
+  - first:
+      213: 7373316886589443600
+    second: Deck02_7
+  - first:
+      213: 5087696280894743015
+    second: Deck02_8
+  - first:
+      213: 3406148438248016451
+    second: Deck02_9
+  - first:
+      213: -7197886455468503514
+    second: Deck02_10
+  - first:
+      213: -3310820820360713607
+    second: Deck02_11
+  - first:
+      213: 3938159137638058159
+    second: Deck02_12
+  - first:
+      213: 8377660892498022680
+    second: Back_D2_1
+  - first:
+      213: 5362812241179954904
+    second: Deck02_14
+  - first:
+      213: 6482534295727591972
+    second: Deck02_15
+  - first:
+      213: -2574929349390834253
+    second: Deck02_16
+  - first:
+      213: -19858119321078237
+    second: Deck02_17
+  - first:
+      213: 5332306843133913856
+    second: Deck02_18
+  - first:
+      213: -8055256389614355142
+    second: Deck02_19
+  - first:
+      213: 316718133330025967
+    second: Deck02_20
+  - first:
+      213: -2368429640310727612
+    second: Deck02_21
+  - first:
+      213: -9120984682127385225
+    second: Deck02_22
+  - first:
+      213: 3915234255916429425
+    second: Deck02_23
+  - first:
+      213: -1509962872242152275
+    second: Deck02_24
+  - first:
+      213: -5336126241793553272
+    second: Deck02_25
+  - first:
+      213: -9023041482954960014
+    second: Deck02_26
+  - first:
+      213: -433670666029108566
+    second: Back_D2_2
+  - first:
+      213: 1238373968832607136
+    second: Deck02_28
+  - first:
+      213: -3364252963478235582
+    second: Deck02_29
+  - first:
+      213: -5315407251172718837
+    second: Deck02_30
+  - first:
+      213: 5844252051249276162
+    second: Deck02_31
+  - first:
+      213: -4693229376433642301
+    second: Deck02_32
+  - first:
+      213: 7653361487732526597
+    second: Deck02_33
+  - first:
+      213: -4002422638983080473
+    second: Deck02_34
+  - first:
+      213: 1030663210840847766
+    second: Deck02_35
+  - first:
+      213: 563064050885566589
+    second: Deck02_36
+  - first:
+      213: 5162319668047967537
+    second: Deck02_37
+  - first:
+      213: -4615463202923517574
+    second: Deck02_38
+  - first:
+      213: -6861387176726406227
+    second: Deck02_39
+  - first:
+      213: 6437866838887046682
+    second: Deck02_40
+  - first:
+      213: -8552559865685663976
+    second: Back_D2_3
+  - first:
+      213: -467872590796705546
+    second: Deck02_42
+  - first:
+      213: -4120126131310695895
+    second: Deck02_43
+  - first:
+      213: 3927545055032276733
+    second: Deck02_44
+  - first:
+      213: 2272901471365635516
+    second: Deck02_45
+  - first:
+      213: -1080871696032500350
+    second: Deck02_46
+  - first:
+      213: 3110376122290022186
+    second: Deck02_47
+  - first:
+      213: -5865499541247452425
+    second: Deck02_48
+  - first:
+      213: 3961510865622030163
+    second: Deck02_49
+  - first:
+      213: -2510955049437243680
+    second: Deck02_50
+  - first:
+      213: -4825729078125685570
+    second: Deck02_51
+  - first:
+      213: -1441224199907959489
+    second: Deck02_52
+  - first:
+      213: 5358601097194354281
+    second: Deck02_53
+  - first:
+      213: 2620435828420200675
+    second: Deck02_54
+  - first:
+      213: 6850071573383382763
+    second: Back_D2_4
+  - first:
+      213: -8223463856721717213
+    second: Deck02_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deck02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25266fa299c0f4984b10d60b64e71aa3
+      internalID: -8015602716496629025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9019e2a16a1941b39c2f84459a211c6
+      internalID: 1543271524466354264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be6b7992700f490bb1d9bc6dbef2224
+      internalID: 16512171712424767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc13be63f962847f19fb7c5fe50685ee
+      internalID: -1899854459020071359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33e6234ee3f4681994e26b1f7686b3
+      internalID: 1004799789455987659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645987cda9b6140228480157a1651789
+      internalID: 1408526355837041803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c0b6bff731d44eda4a883c9a1872d4
+      internalID: 7772293743256464837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8570acc8cb6d4ea2b6ef8349acf5e46
+      internalID: 7373316886589443600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08fc4e7fc2c436d8c5ed0ec8ac783c
+      internalID: 5087696280894743015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806870e8ebdb491ab192ae07537f90d
+      internalID: 3406148438248016451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3619b2bdcfc4cb7b5105b97044b1c2
+      internalID: -7197886455468503514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3400ec34dd444dbd9cbfe78fc9d0e8f
+      internalID: -3310820820360713607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92f1d957280441d9f04f3b682ada67
+      internalID: 3938159137638058159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D2_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3f25ef4fd647fd9aceb34d2f70749
+      internalID: 8377660892498022680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2e1d8730dc54056b1c236829750a89
+      internalID: 5362812241179954904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1021e14dd84d41d78a70d5d511cdd9a
+      internalID: 6482534295727591972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f6c6b1acb34ef69a53bed039188e6
+      internalID: -2574929349390834253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13f6b9dc7434fe3bb222617fb3a752
+      internalID: -19858119321078237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf85e39af43484cb1922d344687636
+      internalID: 5332306843133913856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c844d9f9218240848e2446c1b2860e6
+      internalID: -8055256389614355142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a6585eb6db4072ba97c545a5b29ec
+      internalID: 316718133330025967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b386f2c262c48009a2f0f5b252ba99
+      internalID: -2368429640310727612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5a4a14274546889bd5cbf875114f9
+      internalID: -9120984682127385225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63deac4ca69a546e0b74d65a155806a9
+      internalID: 3915234255916429425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3351902b88f24cd6a5766f38c4459a6
+      internalID: -1509962872242152275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0baa2ecfb5c4472af4950d1fd4bce7
+      internalID: -5336126241793553272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfbabd5e31494110a6a836233ff6452
+      internalID: -9023041482954960014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D2_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571a16f5030f416eaa2ca8250ebf9fc
+      internalID: -433670666029108566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee467eafa08d4e338a71cbb6e6c868b
+      internalID: 1238373968832607136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1298
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965829ea424ed4551a0a58b4803bc929
+      internalID: -3364252963478235582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9efe7fc9c1a4319880dcd8655c5303
+      internalID: -5315407251172718837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d65207da699417591c65cf4e8cc38a
+      internalID: 5844252051249276162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e979d4e1d94c769749443c31c14b7
+      internalID: -4693229376433642301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665f97b0dc2d340909b022738bcd8690
+      internalID: 7653361487732526597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4deb00508e2426b9281e12591e66ac
+      internalID: -4002422638983080473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056101456245c46069f8b5d910d3c0d6
+      internalID: 1030663210840847766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f3829039ae454d8488c6a8e216a50
+      internalID: 563064050885566589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36199e1756c054137bcf509fc10be51a
+      internalID: 5162319668047967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90121b0e1e02e4523835bb8f03051bed
+      internalID: -4615463202923517574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1048
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba027bb168af41e281a8cbef08509de
+      internalID: -6861387176726406227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec9fe70419c4a1fa4ace956f196642
+      internalID: 6437866838887046682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D2_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ff1c4a41114080ad9835231841f26
+      internalID: -8552559865685663976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03aee0c4bfe54483b90a91727bc15e8
+      internalID: -467872590796705546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763dd2c003f44f02ab7dcf253dbb0b6
+      internalID: -4120126131310695895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a48bb3c935d4d91a7e0b8bd64b5651
+      internalID: 3927545055032276733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be95146bb9c142f8ab492f60bf39964
+      internalID: 2272901471365635516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26ace1e252a346d1ac832330daba5c6
+      internalID: -1080871696032500350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f3069e497a41d49c76d874e3a2f28
+      internalID: 3110376122290022186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_48
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa34c0030b14410c91f4c7a4745cdc1
+      internalID: -5865499541247452425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 798
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405a11bcb12440308cf5a4d5b9b9cca
+      internalID: 3961510865622030163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d1b0d5ec4b4a95bbcaf60689bc0c6
+      internalID: -2510955049437243680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f6aba51f34449e98c5cf909b8f1bcc
+      internalID: -4825729078125685570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d608fe9c5b6584014ac1cca17aa24888
+      internalID: -1441224199907959489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ef279b62de4ab484797f09a508213
+      internalID: 5358601097194354281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3682bdb926b584188b9d03c53b16948b
+      internalID: 2620435828420200675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_D2_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5aa6013cd954f7b9211e3e3446384f
+      internalID: 6850071573383382763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck02_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 548
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c617b9ca3d468badc380763576e62
+      internalID: -8223463856721717213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b6edbf62aeb94c6381fefdb7f9f9f04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back_D2_1: 8377660892498022680
+      Back_D2_2: -433670666029108566
+      Back_D2_3: -8552559865685663976
+      Back_D2_4: 6850071573383382763
+      Deck02_0: -8015602716496629025
+      Deck02_1: 1543271524466354264
+      Deck02_10: -7197886455468503514
+      Deck02_11: -3310820820360713607
+      Deck02_12: 3938159137638058159
+      Deck02_14: 5362812241179954904
+      Deck02_15: 6482534295727591972
+      Deck02_16: -2574929349390834253
+      Deck02_17: -19858119321078237
+      Deck02_18: 5332306843133913856
+      Deck02_19: -8055256389614355142
+      Deck02_2: 16512171712424767
+      Deck02_20: 316718133330025967
+      Deck02_21: -2368429640310727612
+      Deck02_22: -9120984682127385225
+      Deck02_23: 3915234255916429425
+      Deck02_24: -1509962872242152275
+      Deck02_25: -5336126241793553272
+      Deck02_26: -9023041482954960014
+      Deck02_28: 1238373968832607136
+      Deck02_29: -3364252963478235582
+      Deck02_3: -1899854459020071359
+      Deck02_30: -5315407251172718837
+      Deck02_31: 5844252051249276162
+      Deck02_32: -4693229376433642301
+      Deck02_33: 7653361487732526597
+      Deck02_34: -4002422638983080473
+      Deck02_35: 1030663210840847766
+      Deck02_36: 563064050885566589
+      Deck02_37: 5162319668047967537
+      Deck02_38: -4615463202923517574
+      Deck02_39: -6861387176726406227
+      Deck02_4: 1004799789455987659
+      Deck02_40: 6437866838887046682
+      Deck02_42: -467872590796705546
+      Deck02_43: -4120126131310695895
+      Deck02_44: 3927545055032276733
+      Deck02_45: 2272901471365635516
+      Deck02_46: -1080871696032500350
+      Deck02_47: 3110376122290022186
+      Deck02_48: -5865499541247452425
+      Deck02_49: 3961510865622030163
+      Deck02_5: 1408526355837041803
+      Deck02_50: -2510955049437243680
+      Deck02_51: -4825729078125685570
+      Deck02_52: -1441224199907959489
+      Deck02_53: 5358601097194354281
+      Deck02_54: 2620435828420200675
+      Deck02_56: -8223463856721717213
+      Deck02_6: 7772293743256464837
+      Deck02_7: 7373316886589443600
+      Deck02_8: 5087696280894743015
+      Deck02_9: 3406148438248016451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

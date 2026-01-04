@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: RandoNadeData
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: RandoNade
+  nadePrefab: {fileID: 1965435876403321054, guid: 1843b3747a01cb9488eb9e335a7b8361,
+    type: 3}
+  weaponInvUI: {fileID: 5574415855280741204, guid: b0dfdf7615482c144b1018d901f1fee0,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 5933377051624628888, guid: 0257a0457abf81c458b371b716328e62,
+    type: 3}
+  visualPrefab: {fileID: 3421904762764270518, guid: 9a7ef3c7352dd5948bd9856438cda0e3,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: 7f8d64049b65afe40ad0526c0e6abada, type: 3}
+  throwClip: {fileID: 8300000, guid: cbe1187efebd6f84d842f160833857a1, type: 3}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 7
+  Strength: 12.5
+  explosionRadius: 10
+  visualRadiusMultiplier: 4
+  throwForce: 12.5
+  duration: 5
+  freezeRotationOnThrow: 0
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1.65
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
+  isBuilding: 0
+  fireRate: 0
+  armTime: 0

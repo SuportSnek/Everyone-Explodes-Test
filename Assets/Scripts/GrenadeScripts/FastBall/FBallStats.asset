@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: FBallStats
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: Fastball
+  nadePrefab: {fileID: 1525320995244594327, guid: 0647679e8ad4a0043a4445da2a0de57b,
+    type: 3}
+  weaponInvUI: {fileID: 125981228473137617, guid: ff9aee6deb477b946a81f54e6fe06c81,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 506416014865057325, guid: 2dfac37af09233b40911f5b4ca110974,
+    type: 3}
+  visualPrefab: {fileID: 7899823561197417956, guid: 48dcfcc738a0e03479be40fb1a86e36d,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: 7f8d64049b65afe40ad0526c0e6abada, type: 3}
+  throwClip: {fileID: 8300000, guid: 0334f99666bfac64a87cc0d12410481d, type: 3}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 9
+  Strength: 15
+  explosionRadius: 5
+  visualRadiusMultiplier: 3
+  throwForce: 20
+  duration: 0
+  freezeRotationOnThrow: 0
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1.65
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0, y: 0, z: 0, w: 1}
+  isBuilding: 0
+  fireRate: 0
+  armTime: 0

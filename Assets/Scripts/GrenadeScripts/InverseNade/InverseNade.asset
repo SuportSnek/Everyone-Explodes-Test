@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf1579dff6e54e49a0d8ccc0242e62d, type: 3}
+  m_Name: InverseNade
+  m_EditorClassIdentifier: Assembly-CSharp::GrenadeStats
+  GrenadeName: InverseNade
+  nadePrefab: {fileID: 1194792491123423422, guid: 721a51fbc6f599a4685ecffbbca1fe8e,
+    type: 3}
+  weaponInvUI: {fileID: 4785381002430280409, guid: 2a1350048130ae447881a67fd49bcc90,
+    type: 3}
+  weaponMenuUIPrefab: {fileID: 7673628143059248379, guid: 972a19a4b2c6d9348abc20ffd2b71e1b,
+    type: 3}
+  visualPrefab: {fileID: 4056927425193681582, guid: ed06d77cfe6adcc47bba21c530332b95,
+    type: 3}
+  explosionClip: {fileID: 8300000, guid: 1019310ed048e4b4c8cb3714cd06c840, type: 3}
+  throwClip: {fileID: 8300000, guid: 0334f99666bfac64a87cc0d12410481d, type: 3}
+  specialMusic: {fileID: 0}
+  isSpecial: 0
+  dropWeight: 1
+  Cooldown: 10
+  Strength: 1.5
+  explosionRadius: 12.5
+  visualRadiusMultiplier: 7
+  throwForce: 10
+  duration: 5
+  freezeRotationOnThrow: 0
+  remoteDetonation: 0
+  spawnPosForwardBackMultiplier: 1.65
+  spawnPosUpDownMultiplier: 0.4
+  upThrowAngle: 0
+  rotationOffset: {x: 0, y: 0, z: 0, w: 1}
+  isBuilding: 0
+  fireRate: 0
+  armTime: 0
